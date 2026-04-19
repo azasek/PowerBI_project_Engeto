@@ -5,7 +5,7 @@ This project is an interactive Power BI dashboard analyzing ski resorts and snow
 
 The report contains two pages:
 
-* Resort Overview – comparison of resorts based on price, size, and infrastructure\
+* Resort Overview – comparison of resorts based on price, size, and infrastructure
 * Snow Analysis – exploration of snow trends across time and regions
 
 Source of raw data: https://www.kaggle.com/datasets/ulrikthygepedersen/ski-resorts
